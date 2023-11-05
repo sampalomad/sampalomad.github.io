@@ -1,0 +1,7 @@
+@inproceedings{sun2020testing,
+  title={Testing configuration changes in context to prevent production failures},
+  author={Sun, Xudong and Cheng, Runxiang and Chen, Jianyan and Ang, Elaine and Legunsen, Owolabi and Xu, Tianyin},
+  booktitle={Proceedings of the 14th USENIX Conference on Operating Systems Design and Implementation (OSDI)},
+  pages={735--751},
+  year={2020}
+}

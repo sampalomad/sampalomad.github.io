@@ -1,0 +1,7 @@
+@inproceedings{cheng2022greedy,
+  title={Greedy modality selection via approximate submodular maximization},
+  author={Cheng, Runxiang and Balasubramaniam, Gargi and He, Yifei and Tsai, Yao-Hung Hubert and Zhao, Han},
+  booktitle={Proceedings of the 38th Conference on Uncertainty in Artificial Intelligence (UAI)},
+  pages={389--399},
+  year={2022}
+}

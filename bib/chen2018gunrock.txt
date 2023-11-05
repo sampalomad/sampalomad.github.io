@@ -1,0 +1,6 @@
+@article{chen2018gunrock,
+  title={Gunrock: Building a human-like social bot by leveraging large scale real user data},
+  author={Chen, Chun-Yen and Yu, Dian and Wen, Weiming and Yang, Yi Mang and Zhang, Jiaping and Zhou, Mingyang and Jesse, Kevin and Chau, Austin and Bhowmick, Antara and Iyer, Shreenath and others},
+  journal={Alexa Prize SocialBot Grand Challenge 2 Proceedings},
+  year={2018}
+}

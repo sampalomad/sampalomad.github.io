@@ -1,0 +1,7 @@
+@inproceedings{zhou2018visual,
+  title={A Visual Attention Grounding Neural Model for Multimodal Machine Translation},
+  author={Zhou, Mingyang and Cheng, Runxiang and Lee, Yong Jae and Yu, Zhou},
+  booktitle={Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP)},
+  pages={3643--3653},
+  year={2018}
+}

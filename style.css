@@ -1,0 +1,61 @@
+/* @import url('https://fonts.googleapis.com/css?family=Titillium+Web:400,600,400italic,600italic,300,300italic'); */
+
+body {
+    font-family: 'Titillium Web',-apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    max-width: 850px;
+    margin: 0 auto;
+}
+
+
+h1 {
+    font-weight: normal;
+    margin-bottom: -10pt;
+}
+
+
+h2 {
+    margin-bottom: -5pt;
+}
+
+li {
+    list-style-type: none;
+    padding: 5pt;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+
+a.url {
+    color: #4169E1;
+    text-decoration: none;
+}
+
+
+a.underline {
+    color: #000000;
+    text-decoration: underline;
+}
+
+span.red {
+    color: #FF0000;
+}
+
+
+img {
+    margin-left: 50pt;
+    margin-bottom: 20pt;
+    float: right;
+}
+
+
+img.profile-image {
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+
