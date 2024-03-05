@@ -1,0 +1,7 @@
+@article{he2024efficient,
+  author={He, Yifei and Cheng, Runxiang and Balasubramaniam, Gargi and Tsai, Yao-Hung Hubert and Zhao, Han},
+  title={Efficient Modality Selection in Multimodal Learning},
+  journal={Journal of Machine Learning Research},
+  volume={25},
+  year={2024},
+}
